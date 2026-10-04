@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./button-CJHfZ8Gl.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`input`,{className:e(`flex h-11 w-full rounded-md border border-border bg-bg px-3 text-sm text-fg placeholder:text-subtle`,`focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60`,t),...r})}export{r as t};

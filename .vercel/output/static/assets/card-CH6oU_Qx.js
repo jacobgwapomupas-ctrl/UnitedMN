@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./button-CJHfZ8Gl.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`rounded-xl border border-border bg-card text-fg`,t),...r})}export{r as t};

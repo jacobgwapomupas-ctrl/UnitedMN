@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./button-CJHfZ8Gl.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`label`,{className:e(`mb-1.5 block text-xs font-medium uppercase tracking-wide text-muted`,t),...r})}export{r as t};

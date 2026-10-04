@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "UnitedMN",
+      "hasCanvas": false,
+      "bodyTextLen": 930,
+      "bodyTextHash": "41421d89947323250e6c8949ad0db9588087aee19b84fe0ec36f14b30b40976d",
+      "bodyTextPrefix": "UnitedMN Profile How can we help? Search the quick answers, or o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "UnitedMN",
+      "hasCanvas": false,
+      "bodyTextLen": 930,
+      "bodyTextHash": "41421d89947323250e6c8949ad0db9588087aee19b84fe0ec36f14b30b40976d",
+      "bodyTextPrefix": "UnitedMN Profile How can we help? Search the quick answers, or o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
